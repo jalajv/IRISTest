@@ -1,0 +1,4 @@
+C:\Users\neil.donkin\Downloads\GL Software Developer Code Test\GL Software Developer Code Test\GL.CodeTest\GL.CodeTest\bin\Debug\Asos.CodeTest.dll
+C:\Users\neil.donkin\Downloads\GL Software Developer Code Test\GL Software Developer Code Test\GL.CodeTest\GL.CodeTest\bin\Debug\Asos.CodeTest.pdb
+C:\Users\neil.donkin\Downloads\GL Software Developer Code Test\GL Software Developer Code Test\GL.CodeTest\GL.CodeTest\obj\Debug\Asos.CodeTest.dll
+C:\Users\neil.donkin\Downloads\GL Software Developer Code Test\GL Software Developer Code Test\GL.CodeTest\GL.CodeTest\obj\Debug\Asos.CodeTest.pdb

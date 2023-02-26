@@ -1,0 +1,16 @@
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\GL.CodeTest\bin\Debug\Asos.CodeTest.dll
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\GL.CodeTest\bin\Debug\Asos.CodeTest.pdb
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\GL.CodeTest\obj\Debug\AIS.CodeTest.csprojAssemblyReference.cache
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\GL.CodeTest\obj\Debug\AIS.CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\GL.CodeTest\obj\Debug\Asos.CodeTest.dll
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\GL.CodeTest\obj\Debug\Asos.CodeTest.pdb
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\AIS.CodeTest\bin\Debug\Asos.CodeTest.dll
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\AIS.CodeTest\bin\Debug\Asos.CodeTest.pdb
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\AIS.CodeTest\obj\Debug\AIS.CodeTest.csprojAssemblyReference.cache
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\AIS.CodeTest\obj\Debug\AIS.CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\AIS.CodeTest\obj\Debug\Asos.CodeTest.dll
+C:\Users\Mohammad Othman\Documents\Source\Repos\AIS.CodeTest\AIS.CodeTest\obj\Debug\Asos.CodeTest.pdb
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\AISDevelopment_Snr_Lead_InterviewTest\AIS.CodeTest\AIS.CodeTest\bin\Debug\Asos.CodeTest.dll
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\AISDevelopment_Snr_Lead_InterviewTest\AIS.CodeTest\AIS.CodeTest\bin\Debug\Asos.CodeTest.pdb
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\AISDevelopment_Snr_Lead_InterviewTest\AIS.CodeTest\AIS.CodeTest\obj\Debug\Asos.CodeTest.dll
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\AISDevelopment_Snr_Lead_InterviewTest\AIS.CodeTest\AIS.CodeTest\obj\Debug\Asos.CodeTest.pdb

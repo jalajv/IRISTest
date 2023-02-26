@@ -1,0 +1,5 @@
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\Development_Snr_Lead_InterviewTest\Job.CodeTest\Job.CodeTest\bin\Debug\Asos.CodeTest.dll
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\Development_Snr_Lead_InterviewTest\Job.CodeTest\Job.CodeTest\bin\Debug\Asos.CodeTest.pdb
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\Development_Snr_Lead_InterviewTest\Job.CodeTest\Job.CodeTest\obj\Debug\Job.CodeAssessment.csprojAssemblyReference.cache
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\Development_Snr_Lead_InterviewTest\Job.CodeTest\Job.CodeTest\obj\Debug\Asos.CodeTest.dll
+C:\Users\Mohammad.Othman\OneDrive - IRIS Software Group\Recruitment\Interviews_Tests\Development_Snr_Lead_InterviewTest\Job.CodeTest\Job.CodeTest\obj\Debug\Asos.CodeTest.pdb
